@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 ## 🔭 What I do ? 
 Make that thing of yours even better. I can help either with the big picture or with specifics. 
 
