@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+## 🔭 What I do ? 
+Make that thing of yours even better. I can help either with the big picture or with specifics. 
+
+## 🌱 The Full Shebang
+
+- Build killer websites as a "full-stack" developer
+
+
+## 👯 Skills / Languages
+
+- TODO
+- `<? php ?>` great
+- `{{ Laravel }}` great
+
+
+## 🤔 ABOUT ME?
+Sure!
+
+
+## 💬 Portfoliooo 🎵 
+- TODO
+
+
+
+## 📫 Reach Out
+- TODO
+
+## ⚡ Fun fact
+- TODO
+- 
+
+
+Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]
+
