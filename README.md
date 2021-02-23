@@ -65,8 +65,7 @@ I'm developer and security researcher.
 - `mcedaemon` - https://github.com/thockin/mcedaemon/pull/9
 - `dirsearch` - https://github.com/maurosoria/dirsearch/pull/123
 
-## ⚡ How to reach me
+## 😄 How to reach me
 - ramin.blackhat@gmail.com
 
-Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]
-
+Thank you for reading this.
