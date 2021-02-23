@@ -61,6 +61,9 @@ I'm developer and security researcher.
 - `OpenConnect` - https://gitlab.com/openconnect/openconnect/-/merge_requests/46
 - `libssh` - https://bugs.libssh.org/p/raminfp/
 - `wget` - https://gitlab.com/gnuwget/wget/-/merge_requests/5
+- `x11vnc` - https://github.com/LibVNC/x11vnc/pull/94
+- `mcedaemon` - https://github.com/thockin/mcedaemon/pull/9
+- `dirsearch` - https://github.com/maurosoria/dirsearch/pull/123
 
 ## ⚡ How to reach me
 - ramin.blackhat@gmail.com
