@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 What I do ? 
-Make that thing of yours even better. I can help either with the big picture or with specifics. 
-
-## 🌱 The Full Shebang
-
-- Build killer websites as a "full-stack" developer
+I'm developer and security researcher.
 
 
 ## 👯 Skills / Languages
@@ -47,19 +43,27 @@ Make that thing of yours even better. I can help either with the big picture or 
 - `Grafana Metrics` Good
 - `LaTeX` Good 
 
+## ⚡ Open Source Contribution Github/Gitlab?
+- `Django` - https://github.com/django/django/blob/master/AUTHORS
+- `Python` - https://bugs.python.org/issue43260
+- `flask` - https://github.com/pallets/flask/issues/1639
+- `jpype` - https://github.com/jpype-project/jpype/issues/171
+- `djangoproject.com` - https://github.com/django/djangoproject.com/issues/695
+- `django-markdown-deux` - https://github.com/trentm/django-markdown-deux/issues/18
+- `django-markup` - https://github.com/bartTC/django-markup/issues/18
+- `simplemde-markdown-editor` - https://github.com/sparksuite/simplemde-markdown-editor/issues/435
+- `pycodestyle` - https://github.com/PyCQA/pycodestyle/issues/598
+- `crash` - https://github.com/crash-utility/crash/issues/9
+- `sanitizers` - https://github.com/google/sanitizers/issues/806
+- `openssl` - https://github.com/openssl/openssl/issues/12819
+- `PParam` - https://github.com/CloudAvid/PParam/issues/9
+- `fluent-bit` - https://github.com/fluent/fluent-bit/issues/3044
+- `OpenConnect` - https://gitlab.com/openconnect/openconnect/-/merge_requests/46
+- `libssh` - https://bugs.libssh.org/p/raminfp/
+- `wget` - https://gitlab.com/gnuwget/wget/-/merge_requests/5
 
-
-## 🤔 ABOUT ME?
-Sure!
-
-
-## 📫 Reach Out
-- TODO
-
-## ⚡ Fun fact
-- TODO
-- 
-
+## ⚡ How to reach me
+- ramin.blackhat@gmail.com
 
 Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]
 
