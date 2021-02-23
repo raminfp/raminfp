@@ -25,18 +25,32 @@ Make that thing of yours even better. I can help either with the big picture or 
 
 ## 👯 Skills / Languages
 
-- TODO
-- `<? php ?>` great
-- `{{ Laravel }}` great
+- `C` great
+- `Python` great
+- `Django` Great
+- `Golang` good
+- `Ruby` Good
+- `C#` Good
+- `PHP` Good
+- `Powershell` Good
+- `Bash` Good
+- `HTML / JavaScript / CSS& JQuery` Good
+- `ElasticSearch` Good
+- `Kibana` Good
+- `Redis` Good
+- `DATABASE & MySQL, MongoDB, SQL Server` Good
+- `Git & TFS & Github & Gitlab` Good
+- `Java Spring Boot` Not Bad
+- `Bootstrap & Materialize` Good
+- `Restful & GraphQL API` Good
+- `Graphite Monitoring` Good
+- `Grafana Metrics` Good
+- `LaTeX` Good 
+
 
 
 ## 🤔 ABOUT ME?
 Sure!
-
-
-## 💬 Portfoliooo 🎵 
-- TODO
-
 
 
 ## 📫 Reach Out
