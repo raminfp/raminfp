@@ -42,6 +42,7 @@ I'm developer and security researcher.
 - `Graphite Monitoring` Good
 - `Grafana Metrics` Good
 - `LaTeX` Good 
+- `SQLAlchemy ORM` Good 
 
 ## ⚡ Open Source Contribution Github/Gitlab?
 - `django` - https://github.com/django/django/blob/master/AUTHORS
