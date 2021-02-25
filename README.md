@@ -21,16 +21,16 @@ I'm developer and security researcher.
 
 ## 👯 Skills / Languages
 
-- `C` great
-- `Python` great
+- `C` Great
+- `Python` Great
 - `Django` Great
-- `Golang` good
+- `Golang` Good
 - `Ruby` Good
 - `C#` Good
 - `PHP` Good
 - `Powershell` Good
 - `Bash` Good
-- `HTML / JavaScript / CSS& JQuery` Good
+- `HTML / JavaScript / CSS / JQuery` Good
 - `ElasticSearch` Good
 - `Kibana` Good
 - `Redis` Good
@@ -44,8 +44,8 @@ I'm developer and security researcher.
 - `LaTeX` Good 
 
 ## ⚡ Open Source Contribution Github/Gitlab?
-- `Django` - https://github.com/django/django/blob/master/AUTHORS
-- `Python` - https://bugs.python.org/issue43260
+- `django` - https://github.com/django/django/blob/master/AUTHORS
+- `python` - https://bugs.python.org/issue43260
 - `flask` - https://github.com/pallets/flask/issues/1639
 - `jpype` - https://github.com/jpype-project/jpype/issues/171
 - `djangoproject.com` - https://github.com/django/djangoproject.com/issues/695
