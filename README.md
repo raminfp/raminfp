@@ -34,7 +34,7 @@ I'm developer and security researcher.
 - `ElasticSearch` Good
 - `Kibana` Good
 - `Redis` Good
-- `DATABASE & MySQL, MongoDB, SQL Server` Good
+- `DATABASE : MySQL, MongoDB, SQL Server` Good
 - `Git & TFS & Github & Gitlab` Good
 - `Java Spring Boot` Not Bad
 - `Bootstrap & Materialize` Good
