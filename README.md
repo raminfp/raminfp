@@ -66,6 +66,13 @@ I'm developer and security researcher.
 - `mcedaemon` - https://github.com/thockin/mcedaemon/pull/9
 - `dirsearch` - https://github.com/maurosoria/dirsearch/pull/123
 
+## ⚡ CVE
+- `CVE-2021-27186` - Fluent-Bit (https://nvd.nist.gov/vuln/detail/CVE-2021-27186)
+- `CVE-2020-28724` - Python-Werkzeug (https://nvd.nist.gov/vuln/detail/CVE-2020-28724)
+- `CVE-2020-28723` - LibPParam (https://nvd.nist.gov/vuln/detail/CVE-2020-28723)
+- `CVE-2020-16135` - LibSSH (https://nvd.nist.gov/vuln/detail/CVE-2020-16135)
+- `CVE-2019-20839` - LibVNCServer (https://nvd.nist.gov/vuln/detail/CVE-2019-20839)
+
 ## 😄 How to reach me
 - ramin.blackhat@gmail.com
 
