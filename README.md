@@ -67,6 +67,7 @@ I'm developer and security researcher.
 - `dirsearch` - https://github.com/maurosoria/dirsearch/pull/123
 
 ## ⚡ CVE
+- `CVE-2021-30496` - Telegram (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30496)
 - `CVE-2021-27186` - Fluent-Bit (https://nvd.nist.gov/vuln/detail/CVE-2021-27186)
 - `CVE-2020-28724` - Python-Werkzeug (https://nvd.nist.gov/vuln/detail/CVE-2020-28724)
 - `CVE-2020-28723` - LibPParam (https://nvd.nist.gov/vuln/detail/CVE-2020-28723)
