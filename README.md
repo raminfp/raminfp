@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on ravro | bug bounty platform  ? 
-I'm developer and security researcher.
+## 🔭 I’m currently working :
+I'm developer and security researcher in the ravro | bug bounty platform.
 
 ## 🌱 Open Source Contribution Github/Gitlab?
 - `django` - https://github.com/django/django/blob/master/AUTHORS
@@ -48,7 +48,5 @@ I'm developer and security researcher.
 - `CVE-2020-16135` - LibSSH (https://nvd.nist.gov/vuln/detail/CVE-2020-16135)
 - `CVE-2019-20839` - LibVNCServer (https://nvd.nist.gov/vuln/detail/CVE-2019-20839)
 
-## 📫 How to reach me
-- ramin.blackhat@gmail.com
+Thank you.
 
-Thank you for reading this.
