@@ -15,36 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 What I do ? 
+## 🔭 I’m currently working on ravro | bug bounty platform  ? 
 I'm developer and security researcher.
 
-
-## 👯 Skills / Languages
-
-- `C` Great
-- `Python` Great
-- `Django` Great
-- `Golang` Good
-- `Ruby` Good
-- `C#` Good
-- `PHP` Good
-- `Powershell` Good
-- `Bash` Good
-- `HTML / JavaScript / CSS / JQuery` Good
-- `ElasticSearch` Good
-- `Kibana` Good
-- `Redis` Good
-- `DATABASE : MySQL, MongoDB, SQL Server` Good
-- `Git & TFS & Github & Gitlab` Good
-- `Java Spring Boot` Not Bad
-- `Bootstrap & Materialize` Good
-- `Restful & GraphQL API` Good
-- `Graphite Monitoring` Good
-- `Grafana Metrics` Good
-- `LaTeX` Good 
-- `SQLAlchemy ORM` Good 
-
-## ⚡ Open Source Contribution Github/Gitlab?
+## 🌱 Open Source Contribution Github/Gitlab?
 - `django` - https://github.com/django/django/blob/master/AUTHORS
 - `python` - https://bugs.python.org/issue43260
 - `flask` - https://github.com/pallets/flask/issues/1639
@@ -74,7 +48,7 @@ I'm developer and security researcher.
 - `CVE-2020-16135` - LibSSH (https://nvd.nist.gov/vuln/detail/CVE-2020-16135)
 - `CVE-2019-20839` - LibVNCServer (https://nvd.nist.gov/vuln/detail/CVE-2019-20839)
 
-## 😄 How to reach me
+## 📫 How to reach me
 - ramin.blackhat@gmail.com
 
 Thank you for reading this.
