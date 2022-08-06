@@ -1,8 +1,4 @@
-### Hi 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raminfp&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=raminfp&show_icons=true&count_private=true&line_height=40)
-
+### Hi there 👋
 
 <!--
 **raminfp/raminfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,38 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working :
-I'm developer and security researcher in the ravro | bug bounty platform.
 
-## 🌱 Open Source Contribution Github/Gitlab?
-- `django` - https://github.com/django/django/blob/master/AUTHORS
-- `python` - https://bugs.python.org/issue43260
-- `flask` - https://github.com/pallets/flask/issues/1639
-- `jpype` - https://github.com/jpype-project/jpype/issues/171
-- `djangoproject.com` - https://github.com/django/djangoproject.com/issues/695
-- `django-markdown-deux` - https://github.com/trentm/django-markdown-deux/issues/18
-- `django-markup` - https://github.com/bartTC/django-markup/issues/18
-- `simplemde-markdown-editor` - https://github.com/sparksuite/simplemde-markdown-editor/issues/435
-- `pycodestyle` - https://github.com/PyCQA/pycodestyle/issues/598
-- `crash` - https://github.com/crash-utility/crash/issues/9
-- `sanitizers` - https://github.com/google/sanitizers/issues/806
-- `openssl` - https://github.com/openssl/openssl/issues/12819
-- `PParam` - https://github.com/CloudAvid/PParam/issues/9
-- `fluent-bit` - https://github.com/fluent/fluent-bit/issues/3044
-- `OpenConnect` - https://gitlab.com/openconnect/openconnect/-/merge_requests/46
-- `libssh` - https://bugs.libssh.org/p/raminfp/
-- `wget` - https://gitlab.com/gnuwget/wget/-/merge_requests/5
-- `x11vnc` - https://github.com/LibVNC/x11vnc/pull/94
-- `mcedaemon` - https://github.com/thockin/mcedaemon/pull/9
-- `dirsearch` - https://github.com/maurosoria/dirsearch/pull/123
+[![Twitter: raminfp](https://img.shields.io/twitter/follow/realraminfp?style=social)](https://twitter.com/realraminfp)
+[![Linkedin: raminfp](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raminfp/)](https://www.linkedin.com/in/raminfp/)
+[![GitHub raminfp](https://img.shields.io/github/followers/raminfp?label=follow&style=social)](https://github.com/raminfp)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raminfp)
+[![Gitlab: raminfp](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Gitlab&logoColor=white&link=https://www.gitlab.com/raminfp/)](https://gitlab.com/raminfp)
 
-## ⚡ CVE
-- `CVE-2021-30496` - Telegram (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-30496)
-- `CVE-2021-27186` - Fluent-Bit (https://nvd.nist.gov/vuln/detail/CVE-2021-27186)
-- `CVE-2020-28724` - Python-Werkzeug (https://nvd.nist.gov/vuln/detail/CVE-2020-28724)
-- `CVE-2020-28723` - LibPParam (https://nvd.nist.gov/vuln/detail/CVE-2020-28723)
-- `CVE-2020-16135` - LibSSH (https://nvd.nist.gov/vuln/detail/CVE-2020-16135)
-- `CVE-2019-20839` - LibVNCServer (https://nvd.nist.gov/vuln/detail/CVE-2019-20839)
 
-Thank you.
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Golang&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
+
+
+| <a href="https://github.com/raminfp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raminfp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/raminfp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminfp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
