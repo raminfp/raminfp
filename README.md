@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## I’m currently working :
-I'm developer and security researcher in the ravro | bug bounty platform.
+I'm developer and security researcher in the Spara Security Group.
 
 
 [![Twitter: raminfp](https://img.shields.io/twitter/follow/realraminfp?style=social)](https://twitter.com/realraminfp)
