@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## I’m currently working :
-I'm developer and security researcher in the Spara Security Group.
-
+I'm developer and security researcher.
 
 [![Twitter: raminfp](https://img.shields.io/twitter/follow/realraminfp?style=social)](https://twitter.com/realraminfp)
 [![Linkedin: raminfp](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raminfp/)](https://www.linkedin.com/in/raminfp/)
