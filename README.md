@@ -22,7 +22,6 @@ I'm developer and security researcher.
 [![Twitter: raminfp](https://img.shields.io/twitter/follow/realraminfp?style=social)](https://twitter.com/realraminfp)
 [![Linkedin: raminfp](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raminfp/)](https://www.linkedin.com/in/raminfp/)
 [![GitHub raminfp](https://img.shields.io/github/followers/raminfp?label=follow&style=social)](https://github.com/raminfp)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raminfp)
 [![Gitlab: raminfp](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Gitlab&logoColor=white&link=https://www.gitlab.com/raminfp/)](https://gitlab.com/raminfp)
 
 
