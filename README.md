@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Stack-ELK-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pattern-BFF-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pipeline-ETL-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Practice-Clean_Architecture-informational?style=flat&logo=clean-code&logoColor=white&color=2bbc8a)
 
 ### Security & Fuzzing
 ![](https://img.shields.io/badge/Security-Fuzzing-informational?style=flat&logo=security&logoColor=white&color=red)
@@ -35,11 +36,6 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-HAProxy-informational?style=flat&logo=nginx&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/CI/CD-Pipeline-informational?style=flat&logo=github-actions&logoColor=white&color=orange)
-
-### Development Practices
-![](https://img.shields.io/badge/Practice-DDD-informational?style=flat&logo=microsoft&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Practice-TDD-informational?style=flat&logo=testing-library&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Practice-Clean_Architecture-informational?style=flat&logo=clean-code&logoColor=white&color=purple)
 
 ### Databases & Messaging
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=yellow)
