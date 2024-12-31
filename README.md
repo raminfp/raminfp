@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Stack-ELK-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pattern-BFF-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pipeline-ETL-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Practice-Clean_Architecture-informational?style=flat&logo=clean-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Architecture-Clean-informational?style=flat&logo=clean-code&logoColor=white&color=2bbc8a)
 
 ### Security & Fuzzing
 ![](https://img.shields.io/badge/Security-Fuzzing-informational?style=flat&logo=security&logoColor=white&color=red)
