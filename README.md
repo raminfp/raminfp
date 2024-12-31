@@ -1,9 +1,5 @@
-### Hi
-
-
-## I’m currently working :
-Software Engineer passionate about system design, security, and modern development practices
-
+# About Me
+*Software Engineer passionate about system design, security, and modern development practices*
 
 
 ## 🔧 Technologies & Skills

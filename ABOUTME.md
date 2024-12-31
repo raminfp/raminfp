@@ -1,6 +1,3 @@
-# About Me
-*Software Engineer passionate about system design, security, and modern development practices*
-
 ## 🔧 Technical Skills
 
 ### System Design & Architecture
