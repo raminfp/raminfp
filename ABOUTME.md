@@ -35,29 +35,30 @@
   - [Building Tools for Multiple Applications with Cargo](https://dev.to/raminfp/how-to-write-your-building-tools-for-multiple-applications-with-cargo-44o9)
   - [Line-Oriented Command Interpreters](https://dev.to/raminfp/a-small-library-for-writing-line-oriented-command-interpreters-in-the-rust-4phl)
 
-### 🔄 Version Control & CI/CD
+### 🔄 Version Control & CI/CD - (Documentation in progress)
 - **Git**
   - Advanced Git workflow
-  - Branch management
+  - Branch management 
   - Code review practices
 - **Containerization & Deployment**
-  - Docker and docker-compose
+  - Docker and docker-compose 
   - Dokploy implementation
   - CI/CD pipeline design
 
-### 👾 Golang Development
+### 👾 Golang Development - (Documentation in progress)
 - **Microservices & Applications**
   - [CGO LibFuzzer Integration](https://github.com/raminfp/cgo-libfuzzer)
   - [Chi Microservice](https://github.com/raminfp/chi_microservice)
   - [Multi-core Fiber](https://github.com/raminfp/multi-core-fiber)
   - [Twenty20](https://github.com/raminfp/twenty20)
   - [Backend Gin](https://github.com/raminfp/backend_gin)
-- **Best Practices & Integration**
-  - [Common Design Patterns](https://dev.to/truongpx396/common-design-patterns-in-golang-5789)
-  - [GolangCI Configuration](https://medium.com/@debug-ing/introduction-to-the-golangci-yml-file-cc11c6ba1b34)
+  - [Design Pattern Fiber](TODO)
+- **Best Practices & Integration** 
+  - [Common Design Patterns](TODO)
+  - [GolangCI Configuration]()
   - [Go-Python-C Integration](https://github.com/raminfp/go-python-c-integration)
-  - [Kafka & Uber ZapLog Integration](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-2bn7)
-  - [gRPC with Auth Interceptor](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
+  - [Kafka & Uber ZapLog Integration](TODO)
+  - [gRPC with Auth Interceptor](TODO)
 - **Architecture & Development Practices**
   - Domain-driven design (DDD)
   - Test-driven development (TDD)
