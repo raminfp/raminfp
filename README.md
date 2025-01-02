@@ -33,10 +33,10 @@
 
 
 ### Frameworks & Libraries
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Chi-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Protocol-gRPC-informational?style=flat&logo=google&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Django%20REST%20Framework-informational?style=flat&logo=django&logoColor=white&color=green)
+![](https://img.shields.io/badge/Framework-GoFiber-informational?style=flat&logo=go&logoColor=white&color=blue)
 
 ### DevOps & CI/CD
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=orange)
