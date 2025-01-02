@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Tool-Honggfuzz-informational?style=flat&logo=security&logoColor=white&color=red)
 
 
-### Frameworks & Libraries
+### Frameworks
 ![](https://img.shields.io/badge/Framework-Chi-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Django%20REST%20Framework-informational?style=flat&logo=django&logoColor=white&color=green)
