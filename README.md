@@ -43,6 +43,12 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-HAProxy-informational?style=flat&logo=nginx&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/CI/CD-Pipeline-informational?style=flat&logo=github-actions&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-Dokploy-informational?style=flat&logo=deploy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-GitLab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-Docker--Compose-informational?style=flat&logo=docker&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=orange)
+
 
 ### Databases & Messaging
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=yellow)
