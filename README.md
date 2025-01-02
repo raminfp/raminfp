@@ -40,7 +40,12 @@
 ### Databases & Messaging
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Queue-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Protocol-WebSocket-informational?style=flat&logo=websocket&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Search-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=green)
+![](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=red)
+![](https://img.shields.io/badge/Visualization-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Storage-MinIO-informational?style=flat&logo=minio&logoColor=white&color=grey)
 
 
 
