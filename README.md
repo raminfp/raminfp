@@ -20,10 +20,17 @@
 ![](https://img.shields.io/badge/Architecture-Clean-informational?style=flat&logo=material-design&logoColor=white&color=2bbc8a)
 
 ### Security & Fuzzing
-![](https://img.shields.io/badge/Security-Fuzzing-informational?style=flat&logo=security&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-LibFuzzer-informational?style=flat&logo=security&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-Jazzer-informational?style=flat&logo=java&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-KLEE-informational?style=flat&logo=security&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-AFL-informational?style=flat&logo=security&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-AFL++-informational?style=flat&logo=security&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-LibAFL-informational?style=flat&logo=rust&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-GoFuzz-informational?style=flat&logo=go&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-AFL--RS-informational?style=flat&logo=rust&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-LibFuzzer--RS-informational?style=flat&logo=rust&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tool-Honggfuzz-informational?style=flat&logo=security&logoColor=white&color=red)
+
 
 ### Frameworks & Libraries
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=blue)
