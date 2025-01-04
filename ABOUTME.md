@@ -38,9 +38,8 @@
   - Branch management 
   - Code review practices
 - **Containerization & Deployment**
-  - Docker and docker-compose 
-  - Dokploy implementation
-  - CI/CD pipeline design
+  - [Docker and docker-compose](https://github.com/raminfp/django_design_pattern_multi_app/blob/main/docker-compose.yml)
+  - [Dokploy implementation and CI/CD pipeline design](https://github.com/raminfp/django_design_pattern_multi_app/blob/main/.gitlab-ci.yml)
 
 ### 👾 Golang Development - (Documentation in progress)
 - **Microservices & Applications**
