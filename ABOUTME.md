@@ -20,7 +20,7 @@
 ### 🐍 Python Development
 - **Django Frameworks**
   - [Django Design Pattern (Single-App)](https://github.com/raminfp/django_design_pattern)
-  - [Django Design Pattern (Multi-App)](https://github.com/raminfp/django_design_pattern)
+  - [Django Design Pattern (Multi-App)](https://github.com/raminfp/django_design_pattern_multi_app)
 - **Tools & Utilities**
   - [Raw TCP HTTP Requester](https://github.com/raminfp/raw-tcp-http-requester)
   - [Python Native Module Sanitizers](https://github.com/raminfp/sanitizers_python_native_module)
