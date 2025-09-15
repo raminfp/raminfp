@@ -1,6 +1,5 @@
 # About Me
-*Software Engineer passionate about system design, security, and modern development practices*
-
+*Software Engineer passionate about system design, security, modern development practices, and Web3/blockchain technologies.*
 
 ## 🔧 Technologies & Skills
 
