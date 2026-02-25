@@ -63,16 +63,3 @@ I believe in making the software we all depend on more secure. My approach is si
 Open source security is a public good. I contribute because reliable, safe infrastructure benefits everyone.
 
 ---
-
-### Currently exploring:
-
-- Solana DeFi & smart contract security auditing
-- Advanced Rust async programming
-- Coverage-guided fuzzing for Python's C extensions
-- Kubernetes & cloud-native security
-
----
-
-📫 **Let's connect:** [Twitter](https://twitter.com/realraminfp) · [GitHub](https://github.com/raminfp) · [Website](https://raminfp.info/)
-
-💼 **Open for:** Security audits · Fuzzing consulting · Solana/Web3 projects · Backend architecture · Collaboration on open-source security
