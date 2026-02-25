@@ -1,96 +1,78 @@
-# Hi there, I'm Ramin 👋
+# Hi there, I'm Ramin Farajpour Cami 👋
 
-<div align="center">
+**Backend Engineer | Security Researcher | Fuzzing Enthusiast**
 
-### Backend Engineer | Security Researcher | Web3 Developer
+Iranian software engineer passionate about making open-source software more secure and reliable through fuzzing, vulnerability research, and code contributions.
 
-[![Twitter](https://img.shields.io/twitter/follow/realraminfp?style=social)](https://twitter.com/realraminfp)
-[![Linkedin](https://img.shields.io/badge/-raminfp-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raminfp/)
-[![GitHub](https://img.shields.io/github/followers/raminfp?label=follow&style=social)](https://github.com/raminfp)
-[![GitLab](https://img.shields.io/badge/-raminfp-orange?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/raminfp)
+Good at breaking things to make them stronger — finding crashes, memory bugs, and security flaws in widely-used software, then writing the patches to fix them.
 
-</div>
+Python, Rust, Go, and C are my daily tools. Come for the bugs, stay for the fixes.
 
 ---
 
-## 🚀 What I Do
+### What I work on:
 
-```python
-expertise = {
-    "backend": "High-performance systems handling millions of requests",
-    "security": "Vulnerability research with AFL++, LibFuzzer, LibAFL",
-    "architecture": "Event-driven microservices at scale",
-    "web3": "Solana smart contracts & DeFi protocols",
-}
-```
+**[CPython](https://github.com/python/cpython):** Active contributor to CPython's security and robustness through fuzzing and bug fixing.
+- Filed **9+ security-critical issues**: use-after-free, NULL dereferences, type confusion, race conditions, and undefined behavior in core modules (`_csv`, `_sqlite3`, `pyexpat`, `array`, `ssl`, `datetime`, lexer).
+- Submitted **6+ PRs** with corresponding fixes for the bugs I found.
+- Contributions focus on C-level memory safety bugs discovered through targeted fuzzing.
 
----
+**[Django](https://github.com/django/django):** Contributed **6 PRs** to the main Django repository.
+- Fixed OverflowError in SQLite queries, session handling bugs, authentication form improvements, and code quality issues.
 
-## 💻 Tech Stack
+**[OpenSSL](https://github.com/openssl/openssl):** Filed **3 issues** including memory leaks and NULL pointer dereferences in crypto subsystems.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-14F195?style=flat-square&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/-Anchor-512BD4?style=flat-square&logo=rust&logoColor=white)
+**[HarfBuzz](https://github.com/harfbuzz/harfbuzz):** Submitted **2 PRs** fixing a memory leak in `get_glyph_from_name()` and a missing nullptr check in `glyf`.
 
-**Architecture:** Microservices • Event-Driven • Clean Architecture • CQRS • DDD
+**[LibVNC](https://github.com/LibVNC):** Fixed buffer overflow issues in both **libvncserver** and **x11vnc**.
 
----
+**[OWASP DevSecOps Guideline](https://github.com/OWASP/DevSecOpsGuideline):** Contributed **4 PRs** improving container vulnerability scanning and SAST documentation.
 
-## 🌟 Highlighted Work
+**Security bug reports across the ecosystem:**
+- **libass** — Integer overflow leading to OOB write in `ass_add_font()`
+- **ppp-project** — Overflow in sockaddr struct
+- **fluent-bit** — NULL dereference on memory allocation error
+- **Flask** — Dev server open redirect via double slash
+- **jQuery** — Location.hash XSS vulnerability
+- **Rust lang** — `Option::unwrap()` panic issue
+- **golang/go** — `os/exec` path handling issue
+- **SQLAlchemy** — Thread parallelism connection crash
+- **crash-utility**, **google/syzkaller**, **google/sanitizers** — Various kernel tooling issues and fixes
 
-**🚗 NGR Online Diagnostics** - Real-time vehicle diagnostics platform  
-`Django • PostgreSQL • Redis • Elasticsearch • RabbitMQ • Prometheus • Grafana`
-- Event-driven microservices handling thousands of concurrent connections
-- Custom monitoring dashboards with real-time metrics
-
-**⚡ Solana Development** - Smart contracts & DeFi protocols  
-`Rust • Anchor • Web3 • TypeScript`
-- On-chain programs and DeFi protocol development
-- Security audits for Solana smart contracts
-
-**🛡️ Security Research** - Fuzzing & vulnerability discovery  
-`LibFuzzer • AFL++ • LibAFL • Honggfuzz • KLEE`
-- Coverage-guided fuzzing for C/Rust/Go applications
+**Linux kernel security research:**
+- Contributed **3 PRs** to [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): heap corruption exploits, stack clash PoCs, and large memory management exploits.
+- Authored [linux-4.8.0-netfilter_icmp](https://github.com/raminfp/linux-4.8.0-netfilter_icmp) — Anatomy of Linux kernel netfilter development.
+- Authored [understanding-linux-kernel-vulnerability](https://github.com/raminfp/understanding-linux-kernel-vulnerability).
 
 ---
 
-## 📊 GitHub Stats
+### By the numbers:
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raminfp&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Currently Exploring
-
-⚡ Solana DeFi & NFT ecosystems  
-🦀 Advanced Rust & async programming  
-☸️ Kubernetes & cloud-native architecture  
-🔐 Zero-trust security patterns  
+- **70+ issues** filed across open-source projects
+- **95+ pull requests** submitted
+- **15+ CPython contributions** (issues + PRs) focused on memory safety
+- **6 Django PRs** merged
+- Security bugs reported in **20+ projects** including OpenSSL, jQuery, Flask, libass, HarfBuzz, LibVNC, ppp, and more
 
 ---
 
-<div align="center">
+### Principles and goals:
 
-**💼 Open for:** Solana/Web3 projects • Backend consulting • Security audits • Collaborations
+I believe in making the software we all depend on more secure. My approach is simple: fuzz it, break it, fix it, upstream it. Every crash report and patch makes the ecosystem a little safer for everyone. I focus on memory safety bugs because they have the highest real-world impact — use-after-free, NULL dereferences, buffer overflows, and type confusion are the vulnerabilities that attackers exploit.
 
-📫 **Let's build something great!**
+Open source security is a public good. I contribute because reliable, safe infrastructure benefits everyone.
 
-</div>
+---
 
+### Currently exploring:
+
+- Solana DeFi & smart contract security auditing
+- Advanced Rust async programming
+- Coverage-guided fuzzing for Python's C extensions
+- Kubernetes & cloud-native security
+
+---
+
+📫 **Let's connect:** [Twitter](https://twitter.com/realraminfp) · [GitHub](https://github.com/raminfp) · [Website](https://raminfp.info/)
+
+💼 **Open for:** Security audits · Fuzzing consulting · Solana/Web3 projects · Backend architecture · Collaboration on open-source security
