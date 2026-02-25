@@ -13,7 +13,7 @@ Python, Rust, Go, and C are my daily tools. Come for the bugs, stay for the fixe
 ### What I work on:
 
 **[CPython](https://github.com/python/cpython):** Active contributor to CPython's security and robustness through fuzzing and bug fixing.
-- Filed **9+ security-critical issues**: use-after-free, NULL dereferences, type confusion, race conditions, and undefined behavior in core modules (`_csv`, `_sqlite3`, `pyexpat`, `array`, `ssl`, `datetime`, lexer).
+- Filed **9+ security-critical issues**: use-after-free, NULL dereferences, type confusion, race conditions, memory leak and undefined behavior in core modules (`_csv`, `_sqlite3`, `pyexpat`, `array`, `ssl`, `datetime`, `lexer`, `_hashlib`).
 - Submitted **6+ PRs** with corresponding fixes for the bugs I found.
 - Contributions focus on C-level memory safety bugs discovered through targeted fuzzing.
 
