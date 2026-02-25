@@ -46,20 +46,8 @@ Python, Rust, Go, and C are my daily tools. Come for the bugs, stay for the fixe
 
 ---
 
-### By the numbers:
-
-- **70+ issues** filed across open-source projects
-- **95+ pull requests** submitted
-- **15+ CPython contributions** (issues + PRs) focused on memory safety
-- **6 Django PRs** merged
-- Security bugs reported in **20+ projects** including OpenSSL, jQuery, Flask, libass, HarfBuzz, LibVNC, ppp, and more
-
----
-
 ### Principles and goals:
 
 I believe in making the software we all depend on more secure. My approach is simple: fuzz it, break it, fix it, upstream it. Every crash report and patch makes the ecosystem a little safer for everyone. I focus on memory safety bugs because they have the highest real-world impact — use-after-free, NULL dereferences, buffer overflows, and type confusion are the vulnerabilities that attackers exploit.
 
 Open source security is a public good. I contribute because reliable, safe infrastructure benefits everyone.
-
----
