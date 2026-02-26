@@ -1,12 +1,12 @@
-# Hi there, I'm Ramin Farajpour Cami 👋
+# Hi,
 
 **Backend Engineer | Security Researcher | Fuzzing Enthusiast**
 
 Iranian software engineer passionate about making open-source software more secure and reliable through fuzzing, vulnerability research, and code contributions.
 
-Good at breaking things to make them stronger — finding crashes, memory bugs, and security flaws in widely-used software, then writing the patches to fix them.
+Good at breaking things to make them stronger, finding crashes, memory bugs, and security flaws in widely-used software, then writing the patches to fix them.
 
-Python, Rust, Go, and C are my daily tools. Come for the bugs, stay for the fixes.
+`Python`, `Rust`, `Go`, and `C`are my daily tools. Come for the bugs, stay for the fixes.
 
 ---
 
@@ -38,11 +38,6 @@ Python, Rust, Go, and C are my daily tools. Come for the bugs, stay for the fixe
 - **golang/go** — `os/exec` path handling issue
 - **SQLAlchemy** — Thread parallelism connection crash
 - **crash-utility**, **google/syzkaller**, **google/sanitizers** — Various kernel tooling issues and fixes
-
-**Linux kernel security research:**
-- Contributed **3 PRs** to [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): heap corruption exploits, stack clash PoCs, and large memory management exploits.
-- Authored [linux-4.8.0-netfilter_icmp](https://github.com/raminfp/linux-4.8.0-netfilter_icmp) — Anatomy of Linux kernel netfilter development.
-- Authored [understanding-linux-kernel-vulnerability](https://github.com/raminfp/understanding-linux-kernel-vulnerability).
 
 ---
 
