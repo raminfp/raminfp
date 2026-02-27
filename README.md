@@ -22,7 +22,7 @@ Good at breaking things to make them stronger, finding crashes, memory bugs, and
 
 **[OpenSSL](https://github.com/openssl/openssl):** Filed **3 issues** including memory leaks and NULL pointer dereferences in crypto subsystems.
 
-**[HarfBuzz](https://github.com/harfbuzz/harfbuzz):** Submitted **2 PRs** fixing a memory leak in `get_glyph_from_name()` and a missing nullptr check in `glyf`.
+**[HarfBuzz](https://github.com/harfbuzz/harfbuzz):** Submitted **3 PRs** fixing a memory leak in `get_glyph_from_name()`, use after free and a missing nullptr check in `glyf`.
 
 **[LibVNC](https://github.com/LibVNC):** Fixed buffer overflow issues in both **libvncserver** and **x11vnc**.
 
