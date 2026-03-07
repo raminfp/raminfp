@@ -13,7 +13,7 @@ Good at breaking things to make them stronger, finding crashes, memory bugs, and
 ### What I work on:
 
 **[CPython](https://github.com/python/cpython):** Active contributor to CPython's security and robustness through fuzzing and bug fixing.
-- Filed **9+ security-critical issues**: use-after-free, NULL dereferences, type confusion, race conditions, memory leak, heap overflow and undefined behavior in core modules (`_csv`, `_sqlite3`, `pyexpat`, `_json`, `ssl`, `datetime`, `lexer`, `_hashlib`).
+- Filed **9+ security-critical issues**: use-after-free, NULL dereferences, type confusion, race conditions, memory leak, heap overflow and undefined behavior in core modules (`_csv`, `_sqlite3`, `pyexpat`, `_json`, `ssl`, `datetime`, `lexer`, `_hashlib`, `_struct`).
 - Submitted **6+ PRs** with corresponding fixes for the bugs I found.
 - Contributions focus on C-level memory safety bugs discovered through targeted fuzzing.
 
